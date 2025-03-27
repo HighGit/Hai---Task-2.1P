@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2.1P</string>
+    <string name="enterValuePrompt">Enter a value:</string>
+    <string name="convertButtonText">Convert</string>
+    <string name="fromText">From</string>
+    <string name="toText">To</string>
+    <string name="metricsText">Metrics</string>
+    <string name="resultPrompt">Result:</string>
+</resources>
